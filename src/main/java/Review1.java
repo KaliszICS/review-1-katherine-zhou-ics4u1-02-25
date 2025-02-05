@@ -30,7 +30,7 @@ public class Review1 {
 		//Write question 5 code here
 		 String a = "Hello ";
 		 String b = " World";
-		System.out.println(a + " ");
+		System.out.print(a + " ");
 		System.out.println(b);
 
 	}
